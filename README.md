@@ -2,6 +2,13 @@
 Fake 3D using isometric tiles and sprites.  Game made with p5js. 
 
 [![Live Demo](./Car game.png)](https://camelcasesensitive.github.io/Isometric-Car-Maze-Game/)
+
+<p align="left">
+  <a href="https://camelcasesensitive.github.io/Isometric-Car-Maze-Game/">
+    <img src="./Car game.png" alt="Isometric car game" title="Isometric car game" width="600">
+  </a>
+</p>
+
 > Click the image above to try it live on GitHub Pages.
 
 ---
